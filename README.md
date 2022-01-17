@@ -1,2 +1,2 @@
 # 100Devs
-Projects made in Bootcamp
+Projects I developed in Bootcamp. 
